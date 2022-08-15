@@ -5,6 +5,8 @@ Technologies used: Android Studio, Java, Firebase, XML.
 
 Demo: https://youtu.be/NRdBNNa5q84
 
+OOP concepts were not used properly since this was the first major project I developed!!
+
 App URL: https://drive.google.com/file/d/1kshlULE7_mNzGLgySJlf8DxOkoQlY6s_/view
 
 ![Picture 1](https://user-images.githubusercontent.com/76934064/159219117-fb33c5d2-a238-4615-a5b4-2bf6185805a9.png)
